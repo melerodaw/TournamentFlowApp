@@ -1,0 +1,18 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-22-generic jvm arch amd64
+
+00:03.593 INFO  :TournamentFlowApp:installPlatformAndroidTest Downloader                Downloading https://dl.google.com/android/repository/platform-36_r02.zip to /home/melero/.cache/JetBrains/Amper/download.cache/f5fcedffbd-platform-36_r02.zip
+00:03.607 INFO  :TournamentFlowApp:installPlatformToolsAndroid Downloader                Downloading https://dl.google.com/android/repository/platform-tools_r37.0.0-linux.zip to /home/melero/.cache/JetBrains/Amper/download.cache/6297e1f8bf-platform-tools_r37.0.0-linux.zip
+00:03.613 INFO  :TournamentFlowApp:installBuildToolsAndroid Downloader                Downloading https://dl.google.com/android/repository/build-tools_r36_linux.zip to /home/melero/.cache/JetBrains/Amper/download.cache/82d5a7376c-build-tools_r36_linux.zip
+00:25.544 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:25.546 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:25.565 INFO  :TournamentFlowApp:transformDependenciesAndroid TransformAarExternalDependenciesTask Transforming AAR external dependencies...
+00:25.983 INFO  :TournamentFlowApp:prepareAndroidDebug Downloader                Downloading https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_linux_hotspot_21.0.11_10.tar.gz to /home/melero/.cache/JetBrains/Amper/download.cache/2c2dfba764-OpenJDK21U-jdk_x64_linux_hotspot_21.0.11_10.tar.gz
+02:12.522 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build started
+02:18.775 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+02:18.777 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+02:19.018 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+02:26.300 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build finished successfully
+02:32.386 INFO  :TournamentFlowApp:compileAndroidDebug JvmCompileTask            Compiling module 'TournamentFlowApp' for platform 'android'...
+02:40.698 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build started
+03:24.083 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build finished successfully

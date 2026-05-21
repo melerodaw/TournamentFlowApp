@@ -1,0 +1,37 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.3.20/kotlin-build-tools-impl-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.3.20/kotlin-build-tools-api-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.20/kotlin-stdlib-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-cri-impl/2.3.20/kotlin-build-tools-cri-impl-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.20/kotlin-compiler-embeddable-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.3.20/kotlin-compiler-runner-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.20/kotlin-script-runtime-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.20/kotlin-daemon-embeddable-2.3.20.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.3.20/kotlin-daemon-client-2.3.20.jar"
+    ],
+    "outputFilesState": {
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar": "size 29371 mtime 2026-05-21T10:24:18.871410901Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.3.20/kotlin-build-tools-api-2.3.20.jar": "size 168792 mtime 2026-05-21T10:26:23.881591603Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-cri-impl/2.3.20/kotlin-build-tools-cri-impl-2.3.20.jar": "size 571402 mtime 2026-05-21T10:26:24.081593498Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.3.20/kotlin-build-tools-impl-2.3.20.jar": "size 1460858 mtime 2026-05-21T10:26:23.894591726Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.20/kotlin-compiler-embeddable-2.3.20.jar": "size 59718536 mtime 2026-05-21T10:26:24.538597827Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.3.20/kotlin-compiler-runner-2.3.20.jar": "size 20147 mtime 2026-05-21T10:26:24.081593498Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.3.20/kotlin-daemon-client-2.3.20.jar": "size 243178 mtime 2026-05-21T10:26:24.852600802Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.20/kotlin-daemon-embeddable-2.3.20.jar": "size 368343 mtime 2026-05-21T10:26:24.066593356Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2026-05-21T10:26:23.509588079Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.20/kotlin-script-runtime-2.3.20.jar": "size 44972 mtime 2026-05-21T10:26:23.798590817Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.20/kotlin-stdlib-2.3.20.jar": "size 1804720 mtime 2026-05-21T10:24:15.785381851Z mode 436 owner melero group melero",
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2026-05-21T10:26:23.219585332Z mode 436 owner melero group melero"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

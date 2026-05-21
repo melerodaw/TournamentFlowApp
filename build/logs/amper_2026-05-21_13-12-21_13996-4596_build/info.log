@@ -1,0 +1,29 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-23-generic jvm arch amd64
+
+00:24.340 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:24.342 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:24.343 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:24.343 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:24.344 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:24.344 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:24.345 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:24.345 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:24.380 INFO  :TournamentFlowApp:transformDependenciesAndroid TransformAarExternalDependenciesTask Transforming AAR external dependencies...
+01:18.971 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build started
+01:24.953 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:24.954 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:25.194 WARN  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:34.480 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build finished successfully
+01:36.678 INFO  :TournamentFlowApp:compileAndroidDebug JvmCompileTask            Compiling module 'TournamentFlowApp' for platform 'android'...
+01:44.693 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/GameListScreen.kt:15:34 Unresolved reference 'icons'.
+01:44.695 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/GameListScreen.kt:16:34 Unresolved reference 'icons'.
+01:44.696 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/GameListScreen.kt:55:29 Unresolved reference 'Icons'.
+01:44.696 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentDetailScreen.kt:14:34 Unresolved reference 'icons'.
+01:44.696 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentDetailScreen.kt:15:34 Unresolved reference 'icons'.
+01:44.696 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentDetailScreen.kt:36:37 Unresolved reference 'factory'.
+01:44.697 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentDetailScreen.kt:66:29 Unresolved reference 'Icons'.
+01:44.697 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentListScreen.kt:14:34 Unresolved reference 'icons'.
+01:44.697 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentListScreen.kt:15:34 Unresolved reference 'icons'.
+01:44.698 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentListScreen.kt:56:29 Unresolved reference 'Icons'.
+01:44.730 ERROR                           MainKt                    Task ':TournamentFlowApp:compileAndroidDebug' failed: Kotlin compilation failed with 10 errors (see above)

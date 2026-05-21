@@ -1,0 +1,17 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {
+        "%outputs%": "/home/melero/TournamentFlowApp/build/generated/TournamentFlowApp/main/src/compose/resources/commonResClass",
+        "makeAccessorsPublic": "false",
+        "packageName": "\"tournamentflowapp.generated.resources\"",
+        "packagingDir": "\"composeResources/tournamentflowapp.generated.resources/\"",
+        "shouldGenerateCode": "false"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [],
+    "outputFilesState": {},
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

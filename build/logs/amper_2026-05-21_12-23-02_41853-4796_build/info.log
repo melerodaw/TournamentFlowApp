@@ -1,0 +1,6 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-22-generic jvm arch amd64
+
+00:02.373 ERROR                           MainKt                    Task ':TournamentFlowApp:checkAndroidSdkLicenseAndroid' failed: Some licenses have not been accepted in the Android SDK:
+ - android-sdk-license
+Run "/home/melero/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --licenses" to review and accept them

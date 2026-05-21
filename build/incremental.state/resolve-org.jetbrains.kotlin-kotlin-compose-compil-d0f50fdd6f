@@ -1,0 +1,15 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compose-compiler-plugin-embeddable/2.3.20/kotlin-compose-compiler-plugin-embeddable-2.3.20.jar"
+    ],
+    "outputFilesState": {
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compose-compiler-plugin-embeddable/2.3.20/kotlin-compose-compiler-plugin-embeddable-2.3.20.jar": "size 941028 mtime 2026-05-21T10:26:26.656617893Z mode 436 owner melero group melero"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

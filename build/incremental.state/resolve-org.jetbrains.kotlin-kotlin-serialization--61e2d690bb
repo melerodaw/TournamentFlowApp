@@ -1,0 +1,15 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-serialization-compiler-plugin-embeddable/2.3.20/kotlin-serialization-compiler-plugin-embeddable-2.3.20.jar"
+    ],
+    "outputFilesState": {
+        "/home/melero/.cache/JetBrains/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-serialization-compiler-plugin-embeddable/2.3.20/kotlin-serialization-compiler-plugin-embeddable-2.3.20.jar": "size 568281 mtime 2026-05-21T11:13:49.732731639Z mode 436 owner melero group melero"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

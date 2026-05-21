@@ -1,0 +1,17 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-23-generic jvm arch amd64
+
+00:09.384 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:09.387 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:09.387 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:09.388 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:09.388 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:09.388 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:09.389 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:09.389 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:09.414 INFO  :TournamentFlowApp:transformDependenciesAndroid TransformAarExternalDependenciesTask Transforming AAR external dependencies...
+00:14.556 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build started
+00:18.632 INFO  :TournamentFlowApp:prepareAndroidDebug GradleProgressEventKt     Gradle build finished successfully
+00:18.723 INFO  :TournamentFlowApp:compileAndroidDebug JvmCompileTask            Compiling module 'TournamentFlowApp' for platform 'android'...
+00:24.214 ERROR :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/ui/TournamentDetailScreen.kt:36:37 Unresolved reference 'factory'.
+00:24.247 ERROR                           MainKt                    Task ':TournamentFlowApp:compileAndroidDebug' failed: Kotlin compilation failed with 1 errors (see above)

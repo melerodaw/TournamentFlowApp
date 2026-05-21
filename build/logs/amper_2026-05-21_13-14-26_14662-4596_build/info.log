@@ -1,0 +1,119 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-23-generic jvm arch amd64
+
+00:04.384 ERROR :TournamentFlowApp:resolveDependenciesAndroidTest CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+00:04.384 ERROR :TournamentFlowApp:resolveDependenciesAndroidTest CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+00:04.387 ERROR :TournamentFlowApp:resolveDependenciesAndroidTest ResolveExternalDependenciesTask$Companion resolve dependencies of module 'TournamentFlowApp' failed
+fragments: test
+repositories:
+  https://repo1.maven.org/maven2
+  https://maven.google.com
+direct dependencies:
+  
+all dependencies:
+  androidx.activity:activity-compose:1.7.2
+  androidx.appcompat:appcompat:1.6.1
+  androidx.compose.material:material-icons-extended:unspecified
+  androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0
+  androidx.navigation:navigation-compose:2.7.6
+  io.coil-kt:coil-compose:2.5.0
+  io.ktor:ktor-client-content-negotiation:2.3.7
+  io.ktor:ktor-client-core:2.3.7
+  io.ktor:ktor-client-okhttp:2.3.7
+  io.ktor:ktor-serialization-kotlinx-json:2.3.7
+  org.jetbrains.compose.foundation:foundation:1.10.3
+  org.jetbrains.compose.material3:material3:1.10.0-alpha05
+  org.jetbrains.compose.runtime:runtime:1.10.3
+  org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.3.20
+  org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.3.20
+  org.jetbrains.kotlin:kotlin-stdlib:2.3.20
+  org.jetbrains.kotlin:kotlin-test-junit:2.3.20
+  org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3
+  org.jetbrains.kotlinx:kotlinx-serialization-core:1.10.0
+  org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2
+platform: ANDROID: org.jetbrains.amper.cli.UserReadableError: Unable to resolve dependencies for module TournamentFlowApp:
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+	at org.jetbrains.amper.cli.UserReadableErrorKt.userReadableError(UserReadableError.kt:37)
+	at org.jetbrains.amper.cli.UserReadableErrorKt.userReadableError$default(UserReadableError.kt:32)
+	at org.jetbrains.amper.CliReportingMavenResolver.processProblems(CliReportingMavenResolver.kt:48)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver.resolveAndReport(MavenResolver.kt:103)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver.access$resolveAndReport(MavenResolver.kt:33)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver$resolveAndReport$1.invokeSuspend(MavenResolver.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:34)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(CoroutineContext.kt:266)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:101)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:47)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:100)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:124)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:586)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:820)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:717)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:704)
+00:04.386 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:04.388 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:04.389 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:04.390 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:04.390 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:7:5: Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:04.391 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:15:5: Declared version 1.7.3 of dependency org.jetbrains.kotlinx:kotlinx-coroutines-android is overridden, the actual version is 1.9.0.
+00:04.392 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:16:5: Declared version 1.6.2 of dependency org.jetbrains.kotlinx:kotlinx-serialization-json is overridden, the actual version is 1.10.0.
+00:04.392 WARN  :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:18:5: Declared version 2.7.0 of dependency androidx.lifecycle:lifecycle-viewmodel-compose is overridden, the actual version is 2.9.4.
+00:04.393 ERROR :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+00:04.393 ERROR :TournamentFlowApp:resolveDependenciesAndroid CliReportingMavenResolver /home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+00:04.394 ERROR :TournamentFlowApp:resolveDependenciesAndroid ResolveExternalDependenciesTask$Companion resolve dependencies of module 'TournamentFlowApp' failed
+fragments: main
+repositories:
+  https://repo1.maven.org/maven2
+  https://maven.google.com
+direct dependencies:
+  
+all dependencies:
+  androidx.activity:activity-compose:1.7.2
+  androidx.appcompat:appcompat:1.6.1
+  androidx.compose.material:material-icons-extended:unspecified
+  androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0
+  androidx.navigation:navigation-compose:2.7.6
+  io.coil-kt:coil-compose:2.5.0
+  io.ktor:ktor-client-content-negotiation:2.3.7
+  io.ktor:ktor-client-core:2.3.7
+  io.ktor:ktor-client-okhttp:2.3.7
+  io.ktor:ktor-serialization-kotlinx-json:2.3.7
+  org.jetbrains.compose.foundation:foundation:1.10.3
+  org.jetbrains.compose.material3:material3:1.10.0-alpha05
+  org.jetbrains.compose.runtime:runtime:1.10.3
+  org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.3.20
+  org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.3.20
+  org.jetbrains.kotlin:kotlin-stdlib:2.3.20
+  org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3
+  org.jetbrains.kotlinx:kotlinx-serialization-core:1.10.0
+  org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2
+platform: ANDROID: org.jetbrains.amper.cli.UserReadableError: Unable to resolve dependencies for module TournamentFlowApp:
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+	at org.jetbrains.amper.cli.UserReadableErrorKt.userReadableError(UserReadableError.kt:37)
+	at org.jetbrains.amper.cli.UserReadableErrorKt.userReadableError$default(UserReadableError.kt:32)
+	at org.jetbrains.amper.CliReportingMavenResolver.processProblems(CliReportingMavenResolver.kt:48)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver.resolveAndReport(MavenResolver.kt:103)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver.access$resolveAndReport(MavenResolver.kt:33)
+	at org.jetbrains.amper.frontend.dr.resolver.MavenResolver$resolveAndReport$1.invokeSuspend(MavenResolver.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:34)
+	at kotlinx.coroutines.UndispatchedCoroutine.afterResume(CoroutineContext.kt:266)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:101)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:47)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:100)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:124)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:586)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:820)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:717)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:704)
+00:04.407 ERROR :TournamentFlowApp:resolveDependenciesAndroid MainKt                    Task ':TournamentFlowApp:resolveDependenciesAndroidTest' failed: Unable to resolve dependencies for module TournamentFlowApp:
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution
+
+/home/melero/TournamentFlowApp/module.yaml:23:5: Version of dependency androidx.compose.material:material-icons-extended is not specified, it has not been resolved by dependency resolution

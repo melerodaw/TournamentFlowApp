@@ -1,0 +1,7 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-22-generic jvm arch amd64
+
+00:03.111 INFO  :TournamentFlowApp:installCmdlineToolsAndroid Downloader                Downloading https://dl.google.com/android/repository/commandlinetools-linux-14742923_latest.zip to /home/melero/.cache/JetBrains/Amper/download.cache/371a9f319a-commandlinetools-linux-14742923_latest.zip
+00:05.838 ERROR                           MainKt                    Task ':TournamentFlowApp:checkAndroidSdkLicenseAndroid' failed: Some licenses have not been accepted in the Android SDK:
+ - android-sdk-license
+Run "/home/melero/Android/Sdk/cmdline-tools/latest/bin/sdkmanager --licenses" to review and accept them

@@ -1,0 +1,419 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12
+MERGED from [TournamentFlowApp-jvm.aar] /home/melero/.gradle/caches/8.14.3/transforms/cd616d7f62e3a7e29148d0be291f356a/transformed/TournamentFlowApp-jvm/AndroidManifest.xml:2:1-63
+MERGED from [activity-compose-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/341afadd778b578316ccdb3b4f780fa7/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [appcompat-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/b353923a5204013bc1effa724a161505/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [navigation-compose-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/22c8e102e510f7046cce8adae04f1f3a/transformed/navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [coil-compose-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8f00c23938bfcd39e2fed8c417bb50d0/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [activity-ktx-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/305f81d33e1479bfbf05d8a940591f1c/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [activity-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/61dc56d48a092bfe6087177009119df2/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [appcompat-resources-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/c0163e39c1b0da78355798c0ce0701b6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [core-ktx-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/5ba71edca5a93701730cbb497f9dd6c3/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [cursoradapter-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/845473879e14f1c3dbec242a25af5d7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [drawerlayout-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ed565b0a1001f648de467463500984e3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [emoji2-views-helper-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/624a51ea65051c7ac5f44a8e53a9451e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [fragment-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/e05a92aa575a9673dad44c631285a75f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [lifecycle-viewmodel-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d7a8de020aef7f6f4e94d4faeb61b306/transformed/lifecycle-viewmodel-compose-android-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [navigation-runtime-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/1590d5081d84eb2d5a7edaed1f808f41/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [coil-compose-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/4ab13aa31153cf1aaa6d15d832888e67/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [coil-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7cd3e020e9ad77f365027b52c680477d/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [material-icons-extended-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b20af0adf7642b056efb740f2da6e625/transformed/material-icons-extended-android-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [foundation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/3e06d3f44aa9523859714e3296bfff6e/transformed/foundation-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [material3-android-1.5.0-alpha08.aar] /home/melero/.gradle/caches/8.14.3/transforms/298b29c4eed6a97a9838ad447e1f9408/transformed/material3-android-1.5.0-alpha08/AndroidManifest.xml:17:1-22:12
+MERGED from [graphics-shapes-android-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/78d34229c8b2243a66efb9a6aca4d2c1/transformed/graphics-shapes-android-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-backhandler-android-1.9.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/47d78cd9bb819bd6f08a91a1aaf36475/transformed/ui-backhandler-android-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [lifecycle-viewmodel-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/43c912e7c6d863d000089b0397c0a662/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [savedstate-ktx-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/d489f15a76c2f9e5c1702ce7aecffe2c/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:2:1-7:12
+MERGED from [runtime-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/a89175f1af51f2228f000fd82665fcb8/transformed/runtime-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [runtime-saveable-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/7a0f32648581b72fa3c2da8cffb30c12/transformed/runtime-saveable-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/46f62f885aeb52527588f99405f30839/transformed/ui-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [lifecycle-viewmodel-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/a03c03bedca070174ce7693b5c377689/transformed/lifecycle-viewmodel-android-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [tracing-1.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b8a53f9e1f5d1475a8712b1d2ca915aa/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [vectordrawable-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/c046af2537a7cfd7afba11a6c722aeb9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [vectordrawable-animated-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/89eec3c1493a3314fa4f328f0a4fa464/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [annotation-experimental-1.4.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/f0d6cf3117cdf0689e9c4c05a4953894/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [core-viewtree-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0ee36efc564349344793a4bee714bf13/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [interpolator-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b621f257d78828a6965adcfbd97a5746/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [versionedparcelable-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/214b1e1bd218f360c5d05d5136a4b6c9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [customview-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/abb157a68f9e9693a8816743faf2febd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:17:1-35:12
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [viewpager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/35563d68e8b2d32c78ee81916070317b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [loader-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/42e2f8b9284cd030b5f297759b386874/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [lifecycle-livedata-core-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8110514e616162486852b6a9e980e61/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [lifecycle-runtime-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/1b209fe72784d88c8955e1e8669e3b2e/transformed/lifecycle-runtime-android-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [savedstate-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/8ce82ff0d20ce3887de4435e4e2b2bfd/transformed/savedstate-android-1.3.3/AndroidManifest.xml:17:1-22:12
+MERGED from [animation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/bb836a12f15910d847d36c9e1dc14b14/transformed/animation-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [foundation-layout-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/b56b68bc2c7bfce4a92d9585a7f3b133/transformed/foundation-layout-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [navigation-common-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca26bc6bd4c2b53f01ef8e7afdc397d5/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [navigation-runtime-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/f7de89be4497161e18c252566b5d5c5c/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [accompanist-drawablepainter-0.32.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/04b7d8e05b2944ceccd5f7cd9f1a0e9e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [coil-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/1ca1221152f7b3518e4cc72b516fd6f6/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [runtime-retain-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8448cdef37118a071a4c094825c51a9/transformed/runtime-retain-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-text-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/78785b5395eded409cc6232ae5328806/transformed/ui-text-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-util-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/717ab7b613205b4057e716d5509ecb08/transformed/ui-util-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [animation-core-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/43e945949d5d35ed4115149264729515/transformed/animation-core-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [material-ripple-android-1.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/e5775c8ccb56d7dd6ce12836f3058594/transformed/material-ripple-android-1.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-graphics-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/14b81ae81a58d96a5920bcf32c014891/transformed/ui-graphics-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [lifecycle-runtime-ktx-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/f8c99807b328b2056c596da94e988dde/transformed/lifecycle-runtime-ktx-android-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [autofill-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ac132f2c28dcd2eb337e44420d98ec9a/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [customview-poolingcontainer-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3b6eaf074fcf80b7729a6440808d830b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [transition-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/65f48b890ddcb10b6464aa4a7d2183f5/transformed/transition-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [lifecycle-viewmodel-savedstate-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/443c2ac75a160ec233d2285657e14a4d/transformed/lifecycle-viewmodel-savedstate-android-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [lifecycle-livedata-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/457447aeb92960ce2b8bdb03b4ddace0/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [core-runtime-2.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/cd5f53729fed89b32231c00ebb0e7d6a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [navigation-common-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/638c7ce7b5ee0f6a4113c9bfd6baf23a/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [exifinterface-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/30c0f64c95540248124e154810c6b9e2/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [material-icons-core-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3c59bd359ae0a8646e2484ddfa82b7d2/transformed/material-icons-core-android-1.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-geometry-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc1d55d9148d9baef71da29b6dff265f/transformed/ui-geometry-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [lifecycle-runtime-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca8568f876a42288d7870eee36fd7fea/transformed/lifecycle-runtime-compose-android-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [ui-unit-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/247aafd012299ef16a2f24ffc1041fbc/transformed/ui-unit-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [graphics-path-1.0.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/9cb80910f18ae55b97efab24a833299f/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [runtime-annotation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/e21e6953eb667baca0c4ab28bfe61eb0/transformed/runtime-annotation-android-1.10.5/AndroidManifest.xml:2:1-7:12
+MERGED from [savedstate-compose-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/585e58239280811f5eb04c7ca29c52b0/transformed/savedstate-compose-android-1.3.3/AndroidManifest.xml:2:1-7:12
+MERGED from [dynamicanimation-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/14d51bbed2b61933a7945104dfea548b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [lifecycle-livedata-core-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/b1c80c0e3a57c76f9fb4436f8b2b957f/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [legacy-support-core-utils-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/e18f1489ccada96f30ba157de945bffb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [window-core-android-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8d72cbf0bd1cfe763e2b24a2ec0c2e1b/transformed/window-core-android-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [documentfile-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7783f50e926f0648891cf432e04a23b4/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [localbroadcastmanager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0cd4deaaff42b1e730ded6c99969766b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [print-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc6fd29a3f299f272fae75e3ac000307/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:2:22-64
+application
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:3:5-12:19
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:3:5-12:19
+MERGED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [versionedparcelable-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/214b1e1bd218f360c5d05d5136a4b6c9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [versionedparcelable-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/214b1e1bd218f360c5d05d5136a4b6c9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+	android:extractNativeLibs
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:usesCleartextTraffic
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:3:18-53
+activity#com.jetbrains.sample.app.MainActivity
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:4:9-11:20
+	android:exported
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:6:19-42
+	android:theme
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:5:19-63
+	android:name
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:4:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:7:13-10:29
+action#android.intent.action.MAIN
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:9:27-74
+uses-sdk
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+MERGED from [activity-compose-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/341afadd778b578316ccdb3b4f780fa7/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [activity-compose-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/341afadd778b578316ccdb3b4f780fa7/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [appcompat-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/b353923a5204013bc1effa724a161505/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [appcompat-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/b353923a5204013bc1effa724a161505/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [navigation-compose-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/22c8e102e510f7046cce8adae04f1f3a/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [navigation-compose-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/22c8e102e510f7046cce8adae04f1f3a/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [coil-compose-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8f00c23938bfcd39e2fed8c417bb50d0/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [coil-compose-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8f00c23938bfcd39e2fed8c417bb50d0/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [activity-ktx-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/305f81d33e1479bfbf05d8a940591f1c/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [activity-ktx-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/305f81d33e1479bfbf05d8a940591f1c/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [activity-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/61dc56d48a092bfe6087177009119df2/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [activity-1.8.2.aar] /home/melero/.gradle/caches/8.14.3/transforms/61dc56d48a092bfe6087177009119df2/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [appcompat-resources-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/c0163e39c1b0da78355798c0ce0701b6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [appcompat-resources-1.6.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/c0163e39c1b0da78355798c0ce0701b6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [core-ktx-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/5ba71edca5a93701730cbb497f9dd6c3/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [core-ktx-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/5ba71edca5a93701730cbb497f9dd6c3/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [cursoradapter-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/845473879e14f1c3dbec242a25af5d7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [cursoradapter-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/845473879e14f1c3dbec242a25af5d7e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [drawerlayout-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ed565b0a1001f648de467463500984e3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [drawerlayout-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ed565b0a1001f648de467463500984e3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [emoji2-views-helper-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/624a51ea65051c7ac5f44a8e53a9451e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [emoji2-views-helper-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/624a51ea65051c7ac5f44a8e53a9451e/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [fragment-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/e05a92aa575a9673dad44c631285a75f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [fragment-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/e05a92aa575a9673dad44c631285a75f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [lifecycle-viewmodel-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d7a8de020aef7f6f4e94d4faeb61b306/transformed/lifecycle-viewmodel-compose-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-viewmodel-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d7a8de020aef7f6f4e94d4faeb61b306/transformed/lifecycle-viewmodel-compose-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [navigation-runtime-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/1590d5081d84eb2d5a7edaed1f808f41/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [navigation-runtime-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/1590d5081d84eb2d5a7edaed1f808f41/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [coil-compose-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/4ab13aa31153cf1aaa6d15d832888e67/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [coil-compose-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/4ab13aa31153cf1aaa6d15d832888e67/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [coil-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7cd3e020e9ad77f365027b52c680477d/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [coil-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7cd3e020e9ad77f365027b52c680477d/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [material-icons-extended-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b20af0adf7642b056efb740f2da6e625/transformed/material-icons-extended-android-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [material-icons-extended-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b20af0adf7642b056efb740f2da6e625/transformed/material-icons-extended-android-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [foundation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/3e06d3f44aa9523859714e3296bfff6e/transformed/foundation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [foundation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/3e06d3f44aa9523859714e3296bfff6e/transformed/foundation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [material3-android-1.5.0-alpha08.aar] /home/melero/.gradle/caches/8.14.3/transforms/298b29c4eed6a97a9838ad447e1f9408/transformed/material3-android-1.5.0-alpha08/AndroidManifest.xml:20:5-44
+MERGED from [material3-android-1.5.0-alpha08.aar] /home/melero/.gradle/caches/8.14.3/transforms/298b29c4eed6a97a9838ad447e1f9408/transformed/material3-android-1.5.0-alpha08/AndroidManifest.xml:20:5-44
+MERGED from [graphics-shapes-android-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/78d34229c8b2243a66efb9a6aca4d2c1/transformed/graphics-shapes-android-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [graphics-shapes-android-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/78d34229c8b2243a66efb9a6aca4d2c1/transformed/graphics-shapes-android-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [ui-backhandler-android-1.9.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/47d78cd9bb819bd6f08a91a1aaf36475/transformed/ui-backhandler-android-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [ui-backhandler-android-1.9.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/47d78cd9bb819bd6f08a91a1aaf36475/transformed/ui-backhandler-android-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-viewmodel-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/43c912e7c6d863d000089b0397c0a662/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-viewmodel-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/43c912e7c6d863d000089b0397c0a662/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [savedstate-ktx-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/d489f15a76c2f9e5c1702ce7aecffe2c/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [savedstate-ktx-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/d489f15a76c2f9e5c1702ce7aecffe2c/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [runtime-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/a89175f1af51f2228f000fd82665fcb8/transformed/runtime-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [runtime-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/a89175f1af51f2228f000fd82665fcb8/transformed/runtime-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [runtime-saveable-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/7a0f32648581b72fa3c2da8cffb30c12/transformed/runtime-saveable-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [runtime-saveable-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/7a0f32648581b72fa3c2da8cffb30c12/transformed/runtime-saveable-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/46f62f885aeb52527588f99405f30839/transformed/ui-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/46f62f885aeb52527588f99405f30839/transformed/ui-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-viewmodel-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/a03c03bedca070174ce7693b5c377689/transformed/lifecycle-viewmodel-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-viewmodel-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/a03c03bedca070174ce7693b5c377689/transformed/lifecycle-viewmodel-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [tracing-1.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b8a53f9e1f5d1475a8712b1d2ca915aa/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [tracing-1.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b8a53f9e1f5d1475a8712b1d2ca915aa/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [vectordrawable-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/c046af2537a7cfd7afba11a6c722aeb9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [vectordrawable-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/c046af2537a7cfd7afba11a6c722aeb9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [vectordrawable-animated-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/89eec3c1493a3314fa4f328f0a4fa464/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [vectordrawable-animated-1.1.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/89eec3c1493a3314fa4f328f0a4fa464/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [annotation-experimental-1.4.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/f0d6cf3117cdf0689e9c4c05a4953894/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [annotation-experimental-1.4.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/f0d6cf3117cdf0689e9c4c05a4953894/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [core-viewtree-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0ee36efc564349344793a4bee714bf13/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [core-viewtree-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0ee36efc564349344793a4bee714bf13/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [interpolator-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b621f257d78828a6965adcfbd97a5746/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [interpolator-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/b621f257d78828a6965adcfbd97a5746/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [versionedparcelable-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/214b1e1bd218f360c5d05d5136a4b6c9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [versionedparcelable-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/214b1e1bd218f360c5d05d5136a4b6c9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [customview-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/abb157a68f9e9693a8816743faf2febd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [customview-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/abb157a68f9e9693a8816743faf2febd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [viewpager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/35563d68e8b2d32c78ee81916070317b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [viewpager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/35563d68e8b2d32c78ee81916070317b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [loader-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/42e2f8b9284cd030b5f297759b386874/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [loader-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/42e2f8b9284cd030b5f297759b386874/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-livedata-core-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8110514e616162486852b6a9e980e61/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-livedata-core-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8110514e616162486852b6a9e980e61/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-runtime-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/1b209fe72784d88c8955e1e8669e3b2e/transformed/lifecycle-runtime-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-runtime-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/1b209fe72784d88c8955e1e8669e3b2e/transformed/lifecycle-runtime-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [savedstate-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/8ce82ff0d20ce3887de4435e4e2b2bfd/transformed/savedstate-android-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [savedstate-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/8ce82ff0d20ce3887de4435e4e2b2bfd/transformed/savedstate-android-1.3.3/AndroidManifest.xml:20:5-44
+MERGED from [animation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/bb836a12f15910d847d36c9e1dc14b14/transformed/animation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [animation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/bb836a12f15910d847d36c9e1dc14b14/transformed/animation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [foundation-layout-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/b56b68bc2c7bfce4a92d9585a7f3b133/transformed/foundation-layout-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [foundation-layout-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/b56b68bc2c7bfce4a92d9585a7f3b133/transformed/foundation-layout-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [navigation-common-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca26bc6bd4c2b53f01ef8e7afdc397d5/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [navigation-common-ktx-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca26bc6bd4c2b53f01ef8e7afdc397d5/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [navigation-runtime-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/f7de89be4497161e18c252566b5d5c5c/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [navigation-runtime-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/f7de89be4497161e18c252566b5d5c5c/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [accompanist-drawablepainter-0.32.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/04b7d8e05b2944ceccd5f7cd9f1a0e9e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [accompanist-drawablepainter-0.32.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/04b7d8e05b2944ceccd5f7cd9f1a0e9e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [coil-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/1ca1221152f7b3518e4cc72b516fd6f6/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [coil-base-2.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/1ca1221152f7b3518e4cc72b516fd6f6/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [runtime-retain-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8448cdef37118a071a4c094825c51a9/transformed/runtime-retain-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [runtime-retain-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/d8448cdef37118a071a4c094825c51a9/transformed/runtime-retain-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-text-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/78785b5395eded409cc6232ae5328806/transformed/ui-text-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-text-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/78785b5395eded409cc6232ae5328806/transformed/ui-text-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-util-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/717ab7b613205b4057e716d5509ecb08/transformed/ui-util-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-util-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/717ab7b613205b4057e716d5509ecb08/transformed/ui-util-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [animation-core-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/43e945949d5d35ed4115149264729515/transformed/animation-core-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [animation-core-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/43e945949d5d35ed4115149264729515/transformed/animation-core-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [material-ripple-android-1.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/e5775c8ccb56d7dd6ce12836f3058594/transformed/material-ripple-android-1.9.4/AndroidManifest.xml:5:5-44
+MERGED from [material-ripple-android-1.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/e5775c8ccb56d7dd6ce12836f3058594/transformed/material-ripple-android-1.9.4/AndroidManifest.xml:5:5-44
+MERGED from [ui-graphics-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/14b81ae81a58d96a5920bcf32c014891/transformed/ui-graphics-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-graphics-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/14b81ae81a58d96a5920bcf32c014891/transformed/ui-graphics-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-runtime-ktx-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/f8c99807b328b2056c596da94e988dde/transformed/lifecycle-runtime-ktx-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-runtime-ktx-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/f8c99807b328b2056c596da94e988dde/transformed/lifecycle-runtime-ktx-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [autofill-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ac132f2c28dcd2eb337e44420d98ec9a/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [autofill-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/ac132f2c28dcd2eb337e44420d98ec9a/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [customview-poolingcontainer-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3b6eaf074fcf80b7729a6440808d830b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [customview-poolingcontainer-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3b6eaf074fcf80b7729a6440808d830b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [transition-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/65f48b890ddcb10b6464aa4a7d2183f5/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [transition-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/65f48b890ddcb10b6464aa4a7d2183f5/transformed/transition-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-viewmodel-savedstate-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/443c2ac75a160ec233d2285657e14a4d/transformed/lifecycle-viewmodel-savedstate-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-viewmodel-savedstate-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/443c2ac75a160ec233d2285657e14a4d/transformed/lifecycle-viewmodel-savedstate-android-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-livedata-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/457447aeb92960ce2b8bdb03b4ddace0/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-livedata-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/457447aeb92960ce2b8bdb03b4ddace0/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [core-runtime-2.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/cd5f53729fed89b32231c00ebb0e7d6a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [core-runtime-2.2.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/cd5f53729fed89b32231c00ebb0e7d6a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [navigation-common-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/638c7ce7b5ee0f6a4113c9bfd6baf23a/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [navigation-common-2.7.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/638c7ce7b5ee0f6a4113c9bfd6baf23a/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [exifinterface-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/30c0f64c95540248124e154810c6b9e2/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [exifinterface-1.3.6.aar] /home/melero/.gradle/caches/8.14.3/transforms/30c0f64c95540248124e154810c6b9e2/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [material-icons-core-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3c59bd359ae0a8646e2484ddfa82b7d2/transformed/material-icons-core-android-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [material-icons-core-android-1.6.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/3c59bd359ae0a8646e2484ddfa82b7d2/transformed/material-icons-core-android-1.6.0/AndroidManifest.xml:5:5-44
+MERGED from [ui-geometry-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc1d55d9148d9baef71da29b6dff265f/transformed/ui-geometry-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-geometry-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc1d55d9148d9baef71da29b6dff265f/transformed/ui-geometry-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-runtime-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca8568f876a42288d7870eee36fd7fea/transformed/lifecycle-runtime-compose-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-runtime-compose-android-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/ca8568f876a42288d7870eee36fd7fea/transformed/lifecycle-runtime-compose-android-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [ui-unit-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/247aafd012299ef16a2f24ffc1041fbc/transformed/ui-unit-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [ui-unit-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/247aafd012299ef16a2f24ffc1041fbc/transformed/ui-unit-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [graphics-path-1.0.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/9cb80910f18ae55b97efab24a833299f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [graphics-path-1.0.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/9cb80910f18ae55b97efab24a833299f/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [runtime-annotation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/e21e6953eb667baca0c4ab28bfe61eb0/transformed/runtime-annotation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [runtime-annotation-android-1.10.5.aar] /home/melero/.gradle/caches/8.14.3/transforms/e21e6953eb667baca0c4ab28bfe61eb0/transformed/runtime-annotation-android-1.10.5/AndroidManifest.xml:5:5-44
+MERGED from [savedstate-compose-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/585e58239280811f5eb04c7ca29c52b0/transformed/savedstate-compose-android-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [savedstate-compose-android-1.3.3.aar] /home/melero/.gradle/caches/8.14.3/transforms/585e58239280811f5eb04c7ca29c52b0/transformed/savedstate-compose-android-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [dynamicanimation-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/14d51bbed2b61933a7945104dfea548b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [dynamicanimation-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/14d51bbed2b61933a7945104dfea548b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [lifecycle-livedata-core-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/b1c80c0e3a57c76f9fb4436f8b2b957f/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [lifecycle-livedata-core-ktx-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/b1c80c0e3a57c76f9fb4436f8b2b957f/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [legacy-support-core-utils-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/e18f1489ccada96f30ba157de945bffb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [legacy-support-core-utils-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/e18f1489ccada96f30ba157de945bffb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [window-core-android-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8d72cbf0bd1cfe763e2b24a2ec0c2e1b/transformed/window-core-android-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [window-core-android-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/8d72cbf0bd1cfe763e2b24a2ec0c2e1b/transformed/window-core-android-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [documentfile-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7783f50e926f0648891cf432e04a23b4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [documentfile-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/7783f50e926f0648891cf432e04a23b4/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [localbroadcastmanager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0cd4deaaff42b1e730ded6c99969766b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [localbroadcastmanager-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/0cd4deaaff42b1e730ded6c99969766b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [print-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc6fd29a3f299f272fae75e3ac000307/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [print-1.0.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc6fd29a3f299f272fae75e3ac000307/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12 reason: org.jetbrains.amper.internal.p369131466 has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12 reason: org.jetbrains.amper.internal.p369131466 has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/melero/TournamentFlowApp/src/AndroidManifest.xml:1:1-13:12 reason: org.jetbrains.amper.internal.p369131466 requested WRITE_EXTERNAL_STORAGE
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.jetbrains.sample.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.jetbrains.sample.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [core-1.16.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/a1814481aaaa30a2d28dfa20c065e97c/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [startup-runtime-1.1.1.aar] /home/melero/.gradle/caches/8.14.3/transforms/04de0c97fa2c5fd9d5b40424862efbe0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [emoji2-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/be414b04e263716df86f5254875eaca6/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [profileinstaller-1.4.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/9e89fdf7e81361a8641b01bd9cb4408c/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [lifecycle-process-2.9.4.aar] /home/melero/.gradle/caches/8.14.3/transforms/dc45b27d0b3aa13fc1763a43f9b32774/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [window-1.5.0.aar] /home/melero/.gradle/caches/8.14.3/transforms/db91c3da8fd9aff8f2aea6813c81372b/transformed/window-1.5.0/AndroidManifest.xml:27:13-51

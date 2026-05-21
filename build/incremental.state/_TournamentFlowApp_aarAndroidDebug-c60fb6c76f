@@ -1,0 +1,22 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {
+        "outputPath": "/home/melero/TournamentFlowApp/build/tasks/_TournamentFlowApp_aarAndroidDebug/TournamentFlowApp-jvm.aar",
+        "requiredPackagingDirs": "[[]]"
+    },
+    "inputFiles": [
+        "/home/melero/TournamentFlowApp/build/tasks/_TournamentFlowApp_jarAndroidDebug/TournamentFlowApp-jvm.jar"
+    ],
+    "inputFilesState": {
+        "/home/melero/TournamentFlowApp/build/tasks/_TournamentFlowApp_jarAndroidDebug/TournamentFlowApp-jvm.jar": "size 135413 mtime 2026-05-21T11:15:30.019132181Z mode 436 owner melero group melero"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "/home/melero/TournamentFlowApp/build/tasks/_TournamentFlowApp_aarAndroidDebug/TournamentFlowApp-jvm.aar"
+    ],
+    "outputFilesState": {
+        "/home/melero/TournamentFlowApp/build/tasks/_TournamentFlowApp_aarAndroidDebug/TournamentFlowApp-jvm.aar": "size 127902 mtime 2026-05-21T11:15:30.03782643Z mode 436 owner melero group melero"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

@@ -1,0 +1,6 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-23-generic jvm arch amd64
+
+00:03.473 INFO  :TournamentFlowApp:installSystemImageAndroid Downloader                Downloading https://dl.google.com/android/repository/sys-img/google_apis/x86_64-36_r07.zip to /home/melero/.cache/JetBrains/Amper/download.cache/766c0bfe1f-x86_64-36_r07.zip
+00:03.579 INFO  :TournamentFlowApp:installEmulatorAndroid Downloader                Downloading https://dl.google.com/android/repository/emulator-linux_x64-15442530.zip to /home/melero/.cache/JetBrains/Amper/download.cache/b7fea1b35d-emulator-linux_x64-15442530.zip
+05:14.495 INFO  :TournamentFlowApp:runAndroidDebug AndroidRunTask            Starting: Intent { act=android.intent.action.MAIN cmp=com.jetbrains.sample.app/.MainActivity }

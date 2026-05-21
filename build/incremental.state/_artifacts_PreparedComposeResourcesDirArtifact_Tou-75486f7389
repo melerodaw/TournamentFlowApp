@@ -1,0 +1,13 @@
+{
+    "codeVersion": "0.11.0-dev-3921",
+    "inputValues": {
+        "%outputs%": "/home/melero/TournamentFlowApp/build/artifacts/PreparedComposeResourcesDirArtifact/TournamentFlowAppmain"
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [],
+    "outputFilesState": {},
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
