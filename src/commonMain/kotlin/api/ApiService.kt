@@ -71,29 +71,38 @@ class ApiService {
     }
 
     suspend fun getGames(): List<Game> {
+        println("Llamando a $BASE_URL/api/juegos")
         return try {
-            client.get("$BASE_URL/games").body()
+            val result: List<Game> = client.get("$BASE_URL/api/juegos").body()
+            println("Respuesta: $result")
+            result
         } catch (e: Exception) {
-            e.printStackTrace()
-            emptyList()
+            println("Error llamando a $BASE_URL/api/juegos: ${e.message}")
+            throw e
         }
     }
 
     suspend fun getTournaments(): List<Tournament> {
+        println("Llamando a $BASE_URL/api/torneos")
         return try {
-            client.get("$BASE_URL/tournaments").body()
+            val result: List<Tournament> = client.get("$BASE_URL/api/torneos").body()
+            println("Respuesta: $result")
+            result
         } catch (e: Exception) {
-            e.printStackTrace()
-            emptyList()
+            println("Error llamando a $BASE_URL/api/torneos: ${e.message}")
+            throw e
         }
     }
 
     suspend fun getTournamentDetail(id: Int): TournamentDetail? {
+        println("Llamando a $BASE_URL/api/torneos/$id")
         return try {
-            client.get("$BASE_URL/tournaments/$id").body()
+            val result: TournamentDetail = client.get("$BASE_URL/api/torneos/$id").body()
+            println("Respuesta: $result")
+            result
         } catch (e: Exception) {
-            e.printStackTrace()
-            null
+            println("Error llamando a $BASE_URL/api/torneos/$id: ${e.message}")
+            throw e
         }
     }
 }

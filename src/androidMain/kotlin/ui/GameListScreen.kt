@@ -84,6 +84,14 @@ fun GameListScreen(onBack: () -> Unit) {
                     )
                 }
 
+                games.value.isEmpty() -> {
+                    Text(
+                        text = "No se pudieron cargar los datos. Verifica la conexión.",
+                        color = Color.Red,
+                        modifier = Modifier.padding(16.dp)
+                    )
+                }
+
                 else -> {
                     LazyColumn(
                         modifier = Modifier

@@ -66,40 +66,61 @@ fun TournamentListScreen(
         },
         containerColor = Background
     ) { innerPadding ->
-        if (isLoading.value) {
-            Box(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .padding(innerPadding),
-                contentAlignment = Alignment.Center
-            ) {
-                CircularProgressIndicator(color = Primary)
+        when {
+            isLoading.value -> {
+                Box(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(innerPadding),
+                    contentAlignment = Alignment.Center
+                ) {
+                    CircularProgressIndicator(color = Primary)
+                }
             }
-        } else if (error.value != null) {
-            Box(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .padding(innerPadding),
-                contentAlignment = Alignment.Center
-            ) {
-                Text(
-                    text = error.value ?: "Error desconocido",
-                    color = Color.Red,
-                    modifier = Modifier.padding(16.dp)
-                )
-            }
-        } else {
-            LazyColumn(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .padding(innerPadding)
-                    .padding(8.dp)
-            ) {
-                items(tournaments.value) { tournament ->
-                    TournamentCard(
-                        tournament = tournament,
-                        onClick = { onTournamentClick(tournament.id) }
+
+            error.value != null -> {
+                Box(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(innerPadding),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text(
+                        text = error.value ?: "Error desconocido",
+                        color = Color.Red,
+                        modifier = Modifier.padding(16.dp)
                     )
+                }
+            }
+
+            tournaments.value.isEmpty() -> {
+                Box(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(innerPadding),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Text(
+                        text = "No se pudieron cargar los datos. Verifica la conexión.",
+                        color = Color.Red,
+                        modifier = Modifier.padding(16.dp)
+                    )
+                }
+            }
+
+            else -> {
+                LazyColumn(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(innerPadding)
+                        .padding(8.dp)
+                ) {
+                    items(tournaments.value) { tournament ->
+                        TournamentCard(
+                            tournament = tournament,
+                            onClick = { onTournamentClick(tournament.id) }
+                        )
+                    }
                 }
             }
         }

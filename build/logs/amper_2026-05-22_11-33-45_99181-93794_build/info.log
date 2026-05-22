@@ -1,0 +1,7 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-23-generic jvm arch amd64
+
+00:02.591 INFO  :TournamentFlowApp:compileAndroidDebug JvmCompileTask            Compiling module 'TournamentFlowApp' for platform 'android'...
+00:12.577 WARN  :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/viewmodel/TournamentDetailViewModelFactory.kt:8:56 Unchecked cast of 'TournamentDetailViewModel' to 'T (of fun <T : ViewModel> create)'.
+00:16.547 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build started
+01:20.506 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build finished successfully
