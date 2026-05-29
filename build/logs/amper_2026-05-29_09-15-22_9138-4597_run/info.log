@@ -1,0 +1,11 @@
+JetBrains Amper version 0.11.0-dev-3921 (a832087, 2026-05-09)
+running on Linux 6.17.0-29-generic jvm arch amd64
+
+00:07.043 INFO  :TournamentFlowApp:compileAndroidDebug JvmCompileTask            Compiling module 'TournamentFlowApp' for platform 'android'...
+00:21.341 WARN  :TournamentFlowApp:compileAndroidDebug KotlinBuildToolsApiKt     file:///home/melero/TournamentFlowApp/src/androidMain/kotlin/viewmodel/TournamentDetailViewModelFactory.kt:8:56 Unchecked cast of 'TournamentDetailViewModel' to 'T (of fun <T : ViewModel> create)'.
+01:07.896 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build started
+01:14.961 WARN  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:14.963 WARN  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:15.270 WARN  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Starting with Gradle 9.0, this property will be ignored by Gradle.
+01:21.120 INFO  :TournamentFlowApp:buildAndroidDebug GradleProgressEventKt     Gradle build finished successfully
+04:38.516 INFO  :TournamentFlowApp:runAndroidDebug AndroidRunTask            Starting: Intent { act=android.intent.action.MAIN cmp=com.jetbrains.sample.app/.MainActivity }
